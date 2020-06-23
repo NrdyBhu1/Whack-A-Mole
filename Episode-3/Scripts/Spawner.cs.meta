@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 950f0f329e327cfcf9602ccf91e64ced
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - molePrefab: {fileID: 7455768666415479658, guid: 31ab7ed611852cec0b7bb03ded3b1d62,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
